@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "114abcb388e9894a797527ede8535eb5"
+build_time: [1596302731, 541016000]
+inputs:
+  "/Users/cosmejordan/Documents/Programming/SwiftUI/Github/Calculator/CalculatorSwiftUI/AppDelegate.swift": [1596121738, 974730138]
+  "/Users/cosmejordan/Documents/Programming/SwiftUI/Github/Calculator/CalculatorSwiftUI/SceneDelegate.swift": [1596121739, 2864054]
+  "/Users/cosmejordan/Documents/Programming/SwiftUI/Github/Calculator/CalculatorSwiftUI/ContentView.swift": [1596292877, 960717003]

@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "2b42cfd38860278b8c8d43b9e09c0afa"
+build_time: [1596380697, 860256000]
+inputs:
+  "/Users/cosmejordan/Documents/Programming/SwiftUI/Github/RomanNumeralsConverter/RomanNumeralsConverter/AppDelegate.swift": [1596319539, 257857516]
+  "/Users/cosmejordan/Documents/Programming/SwiftUI/Github/RomanNumeralsConverter/RomanNumeralsConverter/Conversion.swift": [1596380696, 725674865]
+  "/Users/cosmejordan/Documents/Programming/SwiftUI/Github/RomanNumeralsConverter/RomanNumeralsConverter/SceneDelegate.swift": [1596319541, 71869638]
+  "/Users/cosmejordan/Documents/Programming/SwiftUI/Github/RomanNumeralsConverter/RomanNumeralsConverter/ContentView.swift": [1596377825, 61528119]
+  "/Users/cosmejordan/Documents/Programming/SwiftUI/Github/RomanNumeralsConverter/RomanNumeralsConverter/Roman.swift": [1596320361, 65181990]
